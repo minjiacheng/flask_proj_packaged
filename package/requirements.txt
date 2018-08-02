@@ -1,3 +1,4 @@
+gunicorn
 https://repo.anaconda.com/pkgs/main/win-64/blas-1.0-mkl.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/ca-certificates-2018.03.07-0.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/icc_rt-2017.0.4-h97af966_0.tar.bz2
